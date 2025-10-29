@@ -36,12 +36,12 @@ This "single program, multiple accounts" architecture is the key to VERA-S's sca
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/adityar2705/vera-smart-contract-solana.git](https://github.com/adityar2705/vera-smart-contract-solana.git)
+    git clone [https://github.com/adityar2705/vera-solana-contracts.git](https://github.com/adityar2705/vera-solana-contracts.git)
     ```
 
 2.  **Install dependencies:**
     ```bash
-    cd vera-smart-contract-solana
+    cd vera-solana-contracts
     npm install
     ```
 
